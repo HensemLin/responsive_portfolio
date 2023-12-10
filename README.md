@@ -43,7 +43,7 @@ Follow these steps to run the project locally:
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd your-portfolio
+   cd responsive_portfolio
 
     ```
 
